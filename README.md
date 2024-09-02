@@ -58,7 +58,7 @@ Students must satisfactorily complete all project deliverables and labs to pass 
 
 ## Course Notes: Wiki
 
-All course notes, links, and student submissions will happen via the [course wiki](https://github.com/Seneca-CDOT/topics-in-open-source-2024/wiki).
+All course notes, links, and student submissions will happen via the [course wiki](https://github.com/humphd/topics-in-open-source-2024/wiki).
 
 ## Communication
 
