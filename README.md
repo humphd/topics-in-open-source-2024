@@ -48,10 +48,10 @@ Given that this course is focused on open source development, and given that stu
 Detailed grading information will be discussed later in the term. Below is a breakdown of how students will be graded, and [this blog post](http://blog.humphd.org/vocamus-680/?p=680) gives more details about the rationale:
 
 - 60% - Project Deliverables (e.g., code, Pull Requests, documentation), marked in terms of quality, quantity, process, etc.
-  - 10% - Release 0.1 due Sept 20, 2023 by midnight
-  - 20% - Release 0.2 due Oct 31, 2023 by midnight
-  - 15% - Release 0.3 due Nov 20, 2023 by midnight
-  - 15% - Release 0.4 due Dec 11, 2023 by midnight
+  - 10% - Release 0.1 due Sept 20, 2024 by midnight
+  - 20% - Release 0.2 due Oct 31, 2024 by midnight
+  - 15% - Release 0.3 due Nov 20, 2024 by midnight
+  - 15% - Release 0.4 due Dec 11, 2024 by midnight
 - 40% - Labs: There will be approximately 10 labs, each worth 4%.
 
 Students must satisfactorily complete all project deliverables and labs to pass the course.
